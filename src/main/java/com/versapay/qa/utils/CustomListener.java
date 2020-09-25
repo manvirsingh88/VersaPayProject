@@ -25,11 +25,12 @@ public class CustomListener extends TestBase implements ITestListener {
 
 	}
 
-	@Override
+	@Override 
 	public void onTestFailure(ITestResult result) {
 
 		logger.info(
 				"..........Test " + result.getMethod().getMethodName() + " Failed...........Taking Screen Shot!!!!!");
+		        ScreenShotUtility.failedTestScreenShot(result.getMethod().getMethodName());
 
 		//TestBase.failedTestScreenShot(result.getMethod().getMethodName());
 

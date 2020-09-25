@@ -5,6 +5,7 @@
 		<listener class-name="com.versapay.qa.utils.CustomListener" />
 		<listener
 			class-name="com.versapay.qa.retryfailedtestlogic.TransformerForRetry" />
+		<listener class-name="com.versapay.qa.extentreportlistener.ExtentReportListener" />
 	</listeners>
 	<test thread-count="5" name="Test">
 		<classes>

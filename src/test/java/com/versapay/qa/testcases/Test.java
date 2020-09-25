@@ -21,8 +21,14 @@ public class Test extends TestBase{
 		Assert.assertEquals("VersaPa | Automated Accounts Receivable Software", title);
 	}
 	
+	@org.testng.annotations.Test
+	void MethodTwo() {
+		Assert.assertEquals(true, true);
+	}
+	
 	@AfterMethod
 	void tearDown() {
 		driver.quit();
 	}
 }
+

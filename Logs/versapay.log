@@ -14,3 +14,151 @@
 2020-09-25 06:05:06 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
 2020-09-25 06:05:07 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
 2020-09-25 06:05:07 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:24:28 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:24:28 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:24:29 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:24:29 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:28:30 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:28:30 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:28:30 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:28:30 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:28:40 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:28:40 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:28:40 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:28:40 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:32:06 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:32:06 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:32:07 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:32:07 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:32:17 INFO  TestBase:17 - ..........Test execution for MethodOne started...........
+2020-09-25 06:32:17 INFO  TestBase:24 - Test MethodOne Passed....
+2020-09-25 06:32:18 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:32:18 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:32:18 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:32:18 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:32:26 INFO  TestBase:17 - ..........Test execution for MethodTwo started...........
+2020-09-25 06:32:26 INFO  TestBase:41 - ..........Test MethodTwo Execution Skipped!!!!!
+2020-09-25 06:32:27 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:32:27 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:32:27 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:32:27 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:32:35 INFO  TestBase:17 - ..........Test execution for MethodTwo started...........
+2020-09-25 06:32:35 INFO  TestBase:41 - ..........Test MethodTwo Execution Skipped!!!!!
+2020-09-25 06:32:36 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:32:36 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:32:36 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:32:36 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:32:44 INFO  TestBase:17 - ..........Test execution for MethodTwo started...........
+2020-09-25 06:32:44 INFO  TestBase:31 - ..........Test MethodTwo Failed...........Taking Screen Shot!!!!!
+2020-09-25 06:47:46 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:47:46 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:47:47 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:47:47 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:47:56 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:47:56 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:47:56 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:47:56 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:52:14 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:52:14 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:52:15 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:52:15 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:52:23 INFO  TestBase:17 - ..........Test execution for MethodOne started...........
+2020-09-25 06:52:24 INFO  TestBase:24 - Test MethodOne Passed....
+2020-09-25 06:52:24 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:52:24 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:52:24 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:52:24 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:52:32 INFO  TestBase:17 - ..........Test execution for MethodTwo started...........
+2020-09-25 06:52:32 INFO  TestBase:41 - ..........Test MethodTwo Execution Skipped!!!!!
+2020-09-25 06:52:33 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:52:33 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:52:33 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:52:33 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:52:42 INFO  TestBase:17 - ..........Test execution for MethodTwo started...........
+2020-09-25 06:52:42 INFO  TestBase:41 - ..........Test MethodTwo Execution Skipped!!!!!
+2020-09-25 06:52:42 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:52:42 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:52:42 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:52:42 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:52:50 INFO  TestBase:17 - ..........Test execution for MethodTwo started...........
+2020-09-25 06:52:50 INFO  TestBase:31 - ..........Test MethodTwo Failed...........Taking Screen Shot!!!!!
+2020-09-25 06:58:33 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:58:33 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:58:34 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:58:34 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 06:58:44 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 06:58:44 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 06:58:44 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 06:58:44 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 08:59:54 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 08:59:54 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 08:59:54 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 08:59:54 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:00:04 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:00:04 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:00:04 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:00:04 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:02:23 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:02:23 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:02:23 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:02:23 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:02:33 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:02:33 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:02:33 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:02:33 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:11:11 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:11:11 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:11:11 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:11:11 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:11:21 INFO  TestBase:17 - ..........Test execution for MethodOne started...........
+2020-09-25 09:11:21 INFO  TestBase:42 - ..........Test MethodOne Execution Skipped!!!!!
+2020-09-25 09:11:21 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:11:21 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:11:21 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:11:21 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:11:29 INFO  TestBase:17 - ..........Test execution for MethodOne started...........
+2020-09-25 09:11:29 INFO  TestBase:42 - ..........Test MethodOne Execution Skipped!!!!!
+2020-09-25 09:11:30 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:11:30 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:11:30 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:11:30 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:11:38 INFO  TestBase:17 - ..........Test execution for MethodOne started...........
+2020-09-25 09:11:38 INFO  TestBase:31 - ..........Test MethodOne Failed...........Taking Screen Shot!!!!!
+2020-09-25 09:11:39 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:11:39 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:11:39 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:11:39 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:11:48 INFO  TestBase:17 - ..........Test execution for MethodTwo started...........
+2020-09-25 09:11:48 INFO  TestBase:24 - Test MethodTwo Passed....
+2020-09-25 09:15:00 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:15:00 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:15:01 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:15:01 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:15:10 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:15:10 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:15:10 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:15:10 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:34:48 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:34:48 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:34:48 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:34:48 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:34:58 INFO  TestBase:17 - ..........Test execution for MethodOne started...........
+2020-09-25 09:34:58 INFO  TestBase:42 - ..........Test MethodOne Execution Skipped!!!!!
+2020-09-25 09:34:59 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:34:59 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:34:59 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:34:59 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:35:07 INFO  TestBase:17 - ..........Test execution for MethodOne started...........
+2020-09-25 09:35:07 INFO  TestBase:42 - ..........Test MethodOne Execution Skipped!!!!!
+2020-09-25 09:35:08 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:35:08 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:35:08 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:35:08 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:35:16 INFO  TestBase:17 - ..........Test execution for MethodOne started...........
+2020-09-25 09:35:16 INFO  TestBase:31 - ..........Test MethodOne Failed...........Taking Screen Shot!!!!!
+2020-09-25 09:35:19 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2020-09-25 09:35:19 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2020-09-25 09:35:19 INFO  WebDriverManager:571 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-09-25 09:35:19 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as C:\Users\shami\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-09-25 09:35:27 INFO  TestBase:17 - ..........Test execution for MethodTwo started...........
+2020-09-25 09:35:27 INFO  TestBase:24 - Test MethodTwo Passed....
